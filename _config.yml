@@ -2,7 +2,7 @@
 baseurl: "/"
 base_url: "https://thekkedam.com"
 url: "https://thekkedam.com"
-domain: "thekkedam.org"
+domain: "thekkedam.com"
 production: true
 
 # Jekyll build settings
